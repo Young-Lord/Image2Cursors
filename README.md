@@ -1,6 +1,6 @@
 # Image2Cursors
 
-半自动将图片文件转换为 Linux 可用的 xcursors 文件。详细内容请查看`main.py`。
+半自动将图片文件转换为 Linux 可用的 xcursors 文件。详细内容请查看`main.py`。成品可在[这里](https://github.com/Young-Lord/Image2Cursors/raw/master/output/Mahiro.tar.gz)下载。
 
 大致流程：
 

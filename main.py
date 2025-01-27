@@ -50,8 +50,7 @@ METADATA_DIR = CURSORS_ROOT_DIR / "index.theme"
 # write metadata
 with open(METADATA_DIR, "w") as f:
     f.write(
-        f"""
-[Icon Theme]
+        f"""[Icon Theme]
 Name={CURSORS_NAME}
 Comment={data["metadata"]["comment"]}
 """
