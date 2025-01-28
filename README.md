@@ -2,6 +2,8 @@
 
 半自动将图片文件转换为 Linux 可用的 xcursors 文件。详细内容请查看`main.py`。成品可在[这里](https://github.com/Young-Lord/Image2Cursors/raw/master/output/Mahiro.tar.gz)下载。
 
+![预览图](https://github.com/user-attachments/assets/9a3e54b1-7f3f-4d61-8a4b-c031d4ff6fc3)
+
 大致流程：
 
 1. 使用 CursorCreate 图形化编辑
@@ -12,3 +14,7 @@
 6. 生成后的图标将会自动为当前用户安装，可以在 KDE Plasma 6 的 System Settings > Appearance > Colors & Themes > Cursors 应用，并选择合适尺寸。
 
 示例图标来源：[【别当欧尼酱了】真寻自制像素鼠标指针](https://www.bilibili.com/video/BV1FT41127t8)
+
+## 捐赠
+
+[捐赠](https://young-lord.github.io/about#donate)
