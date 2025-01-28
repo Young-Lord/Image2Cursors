@@ -1,3 +1,5 @@
+# Published on https://github.com/Young-Lord/Image2Cursors under WTFPL
+
 # Credit to:
 # https://blog.csdn.net/qq_41172785/article/details/89063164
 # https://aurora0x27.github.io/2024/08/22/WinCursor2Linux/index.html
