@@ -1,12 +1,12 @@
 # Credit to:
 # https://blog.csdn.net/qq_41172785/article/details/89063164
 # https://aurora0x27.github.io/2024/08/22/WinCursor2Linux/index.html
-# https://develop.kde.org/docs/features/cursor
+# https://develop.kde.org/docs/features/cursor (detailed tutorial)
 # https://github.com/isaacrobinson2000/CursorCreate (use it to generate build.json!)
-# xcursor-viewer
+# https://github.com/drizt/xcursor-viewer (preview any cursors) (https://askubuntu.com/questions/1271133/how-can-i-preview-the-x11-cursor-file)
 
 # Dependencies:
-# System: sudo apt install xcursorgen / sudo pacman -Syyu xorg-xcursorgen
+# System: sudo apt install x11-apps / sudo pacman -Syyu xorg-xcursorgen
 # Python: Pillow
 
 import os
